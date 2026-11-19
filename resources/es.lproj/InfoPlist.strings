@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Afro Meet necesita acceder a tu cámara para hacer videollamadas.";
+"NSMicrophoneUsageDescription" = "Afro Meet necesita acceder a tu micrófono para hacer llamadas de audio y video.";
+"NSAudioCaptureUsageDescription" = "Afro Meet puede compartir el audio de tu computador cuando activas esta opción al compartir pantalla.";
