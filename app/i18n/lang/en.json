@@ -1,0 +1,61 @@
+{
+	"enterConferenceNameOrUrl": "Enter your room name",
+	"roomNamePlaceholder": "example: team-meeting-2026",
+	"roomNameHint": "Use only lowercase letters from a to z, numbers, and hyphens (-).",
+	"go": "GO",
+	"scheduleMeeting": "Schedule a meeting",
+	"help": "Help",
+	"termsLink": "Terms",
+	"privacyLink": "Privacy",
+	"recentListLabel": "or rejoin one of your recent conference rooms",
+	"sendFeedbackLink": "Send Feedback",
+	"aboutLink": "About",
+	"sourceLink": "Source Code",
+	"versionLabel": "Version: {{version}}",
+	"settings": {
+		"back": "Back",
+		"alwaysOnTopWindow": "Always on Top Window",
+		"invalidServer": "Invalid Server URL",
+		"invalidServerTimeout": "Invalid value for Server Timeout",
+		"serverUrl": "Server URL",
+		"serverTimeout": "Server Timeout (in seconds)",
+		"disableAGC": "Disable automatic gain control"
+	},
+	"menu": {
+		"services": "Services",
+		"hide": "Hide {{appName}}",
+		"hideOthers": "Hide Others",
+		"showAll": "Show All",
+		"quit": "Quit {{appName}}",
+		"edit": "Edit",
+		"undo": "Undo",
+		"redo": "Redo",
+		"cut": "Cut",
+		"copy": "Copy",
+		"paste": "Paste",
+		"selectAll": "Select All",
+		"window": "Window",
+		"minimize": "Minimize",
+		"close": "Close",
+		"learnSpelling": "Learn Spelling",
+		"copyLink": "Copy Link",
+		"saveLinkAs": "Save Link As…",
+		"inspect": "Inspect Element"
+	},
+	"updates": {
+		"readyTitle": "A new update is ready to install",
+		"readyBody": "{appName} version {version} has been downloaded and will be installed when you quit the app."
+	},
+	"screenSharing": {
+		"title": "Screen sharing",
+		"status": "{{appName}} is sharing your screen.",
+		"stop": "Stop sharing",
+		"hide": "Hide"
+	},
+	"remoteControl": {
+		"message": "Allow remote control of this computer?",
+		"detail": "A meeting participant is requesting control of your mouse and keyboard.",
+		"allow": "Allow",
+		"deny": "Deny"
+	}
+}

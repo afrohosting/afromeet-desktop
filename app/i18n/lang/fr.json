@@ -1,0 +1,24 @@
+{
+	"enterConferenceNameOrUrl": "Entrez un nom pour votre conférence ou une URL Afro Meet",
+	"go": "Rejoindre",
+	"help": "Aide",
+	"termsLink": "Conditions d’utilisation",
+	"privacyLink": "Politique de confidentialité",
+	"sendFeedbackLink": "Envoyer des commentaires",
+	"aboutLink": "À propos",
+	"sourceLink": "Code source",
+	"versionLabel": "Version : {{version}}",
+	"settings": {
+		"back": "Retour",
+		"alwaysOnTopWindow": "Fenêtre Toujours au Dessus",
+		"invalidServer": "URL invalide",
+		"serverUrl": "URL du serveur",
+		"serverTimeout": "Délai de connexion au server (en secondes)"
+	},
+	"remoteControl": {
+		"message": "Autoriser le contrôle à distance de cet ordinateur ?",
+		"detail": "Un participant à la conférence demande à contrôler votre souris et votre clavier.",
+		"allow": "Autoriser",
+		"deny": "Refuser"
+	}
+}

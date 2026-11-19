@@ -1,0 +1,24 @@
+{
+	"enterConferenceNameOrUrl": "Inserisci un numero di conferenza oppure un URL Afro Meet",
+	"go": "VAI",
+	"help": "Aiuto",
+	"termsLink": "Condizioni d'uso",
+	"privacyLink": "Informazioni sulla privacy",
+	"sendFeedbackLink": "Inviaci Feedback",
+	"aboutLink": "FAQ",
+	"sourceLink": "Codice sorgente",
+	"versionLabel": "Versione: {{version}}",
+	"settings": {
+		"back": "Indietro",
+		"alwaysOnTopWindow": "Finestra sempre in primo piano",
+		"invalidServer": "URL del server errato",
+		"serverUrl": "URL Server",
+		"serverTimeout": "Timeout del server (in secondi)"
+	},
+	"remoteControl": {
+		"message": "Consentire il controllo remoto di questo computer?",
+		"detail": "Un partecipante alla conferenza sta richiedendo il controllo del mouse e della tastiera.",
+		"allow": "Consenti",
+		"deny": "Nega"
+	}
+}

@@ -1,0 +1,23 @@
+*.swp
+.*.tmp
+.remote-sync.json
+.sync-config.cson
+.electron
+.electron-gyp
+.idea
+.jshintignore
+.jshintrc
+
+.DS_Store
+.env
+.env.*
+*.p12
+*.pfx
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+build/
+dist/

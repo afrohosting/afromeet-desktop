@@ -1,0 +1,27 @@
+{
+	"enterConferenceNameOrUrl": "Bitte einen Konferenznamen oder eine Afro-Meet-Adresse eingeben",
+	"go": "LOS",
+	"help": "Hilfe",
+	"termsLink": "Nutzungsbedingungen",
+	"privacyLink": "Datenschutzbedingungen",
+	"recentListLabel": "oder einen zuletzt genutzen Konferenzraum betreten",
+	"sendFeedbackLink": "Eine Rückmeldung senden",
+	"aboutLink": "F&A",
+	"sourceLink": "Quelltext",
+	"versionLabel": "Version: {{version}}",
+	"settings": {
+		"back": "Zurück",
+		"alwaysOnTopWindow": "Immer im Vordergrund",
+		"invalidServer": "Falsche Server-Adresse",
+		"invalidServerTimeout": "Ungültiger Wert für die Server-Wartezeit",
+		"serverUrl": "Server-Adresse",
+		"serverTimeout": "Server-Wartezeit (in Sekunden)",
+		"disableAGC": "Automatische Mikrofonlautstärkeregelung deaktivieren"
+	},
+	"remoteControl": {
+		"message": "Fernsteuerung dieses Computers zulassen?",
+		"detail": "Ein Konferenzteilnehmer möchte Maus und Tastatur dieses Computers steuern.",
+		"allow": "Zulassen",
+		"deny": "Ablehnen"
+	}
+}
